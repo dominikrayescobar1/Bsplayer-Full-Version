@@ -245,4 +245,4 @@ This repository serves as the official landing page for BSplayer. The software i
 **Get the most recent version of BSplayer today!**
 
 ---
-**Last updated:** 2026-10-13 07:30:57 UTC
+**Last updated:** 2026-10-13 15:44:22 UTC
